@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wesley Araújo",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^13.0.1",
+    "puppeteer-core": "^13.0.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "readline-sync": "^1.4.10",
+    "string.prototype.replaceall": "^1.0.6"
+  }
+}
